@@ -13,7 +13,7 @@ const NavBar = () => {
           <div className="flex-shrink-0 font-bold text-xl cursor-pointer">
             <Link to="/" className="inline-flex items-center">
               <img src="/logo.png" alt="React Logo" className="w-10 h-10 mr-2 bg-white" />
-              HelpDesk
+              Asram Service Desk
             </Link>
           </div>
 

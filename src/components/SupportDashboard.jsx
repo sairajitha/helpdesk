@@ -123,6 +123,104 @@ const services = [
       "Projectors & Display setup",
       "G-Events management"
     ]
+  },
+  {
+    title: "Adademic software",
+    items: [
+      "A-Course registration",
+      "A-Learn",
+      "A-Courses",
+      "G-Valuation"
+    ]
+  },
+  {
+    title: "Administartiv software",
+    items: [
+      "A-Application & Admissions",
+      "A-Security",
+      "A-Finance",
+      "G-Pay"
+    ]
+  },
+  {
+    title: "Customer care & Data reporting",
+    items: [
+      "Training and adoption",
+      "Data reporting service",
+      "Servicedesk",
+      "Process & Policies"
+    ]
+  },
+  {
+    title: "Hospital software",
+    items: [
+      "All hospital modules",
+      "NMC",
+      "NABH",
+      "Medical LMS"
+    ]
+  },
+  {
+    title: "Web & App service",
+    items: [
+      "Websites",
+      "Mobile Apps",
+      "Analytics and insights",
+      "Frontend developement"
+    ]
+  },
+  {
+    title: "Tech infrastructure service",
+    items: [
+      "LAN",
+      "Switches",
+      "WiFi points",
+      "Projectors"
+    ]
+  },
+  {
+    title: "Communication service",
+    items: [
+      "Email",
+      "VC Communication",
+      "Broadcast",
+      "Signage"
+    ]
+  },
+  {
+    title: "Indentity and security",
+    items: [
+      "Domain service",
+      "ID card services",
+      "Network access control",
+      "Security"
+    ]
+  },
+  {
+    title: "Desktop and printer services",
+    items: [
+      "System adminstartion",
+      "Piracy control",
+      "Safe browsers",
+      "Lab management"
+    ]
+  },
+  {
+    title: "Research services",
+    items: [
+      "HPC",
+      "Scholar",
+      "Projects",
+      "Equipments"
+    ]
+  },
+  {
+    title: "Smart campus services",
+    items: [
+      "L1, L2 classroom design",
+      "Adv meeting room design",
+      "BMS anagement"
+    ]
   }
 ];
 
